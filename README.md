@@ -1,6 +1,8 @@
 # Solution
 Using OOP, I Read an input.txt file and seperated each player with their hand. Then Played each hand against each other in Poker.
 
+![Eclipse running PlayApp](/images/Appimg.png)
+
 Poker Rules:
 ```
 Straight Flush: 5 cards of the same suit with consecutive values. Ranked by the highest card in the hand.
